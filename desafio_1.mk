@@ -14,7 +14,7 @@ r = resto
 Se D < 100, então século 1
 
 Se D>100, então faça:
-	D = 100d + r
+	D = q * d + r
 
-Se r = 0, então o século é d.
-Se r diferente de zero, então o século é d+1
+Se r = 0, então o século é q
+Se r diferente de zero, então o século é q + 1
