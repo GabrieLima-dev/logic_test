@@ -1,6 +1,5 @@
 from ast import Break
 
-
 date = int(input("Informe aqui uma data e lhe direi em qual século está: "))
 
 D = date
@@ -9,7 +8,7 @@ q = int(date/d)
 r = date % d
 x = q + 1
 
-if D < 100:
+if D <= 100:
     print("Com o ano {} estamos falando do século 1".format(D))
 
 if D > 100:
