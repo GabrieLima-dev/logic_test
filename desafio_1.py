@@ -1,5 +1,3 @@
-from ast import Break
-
 date = int(input("Informe aqui uma data e lhe direi em qual século está: "))
 
 D = date
