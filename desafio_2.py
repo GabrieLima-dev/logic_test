@@ -43,5 +43,6 @@ print("Olá, nosso jogo irá começar.\n Teremos 10 partidas.\n Que vença o mel
 print()
 n_partida()
 print()
-print("O nosso ao fim do campeonato teve um total de {} pontos".format(
+print("-" * 60)
+print("O nosso time ao fim do campeonato teve um total de {} pontos.".format(
     sum(princ[9])))
