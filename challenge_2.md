@@ -4,11 +4,12 @@ Essa aplicação expõe a soma da pontução de um time ao final do campeonato a
 
 - Features:
 
-* Validação de Dados: Os usuários inserem valores que são coletados, em que são validados, aceitando apenas valores coerentes aos que são pedidos pela aplicação.
+* Entrada de Dados: Os usuários inserem valores que são coletados e salvos.
+* Validação de Dados: Os valores coletados são validados a partir da aceitação apenas de valores coerentes aos que são pedidos pela aplicação.
 
 Tecnologias Utilizadas:
 
-- Python: Linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. De sintaxe simples e fácil compreensão.
+- Python: Linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. De sintaxe simples e fácil compreensão. Tecnologia escolhida por ter uma melhor compreensão pelo desenvolvedor.
 
 * Como Executar a aplicação:
   Para rodar a aplicação se faz necessário a instalação em sua máquina:
