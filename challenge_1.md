@@ -1,6 +1,6 @@
 - Propósito:
 
-Essa aplicação imprime o século de qualquer ano inserido pelo usuário, a partir de uma fórmula da divisão euclidiano.
+Essa aplicação imprime o século de qualquer ano inserido pelo usuário, a partir da fórmula da divisão euclidiana.
 
 - Features:
 
@@ -20,10 +20,11 @@ Após fazer o clone da aplicação, siga os passos:
 O arquivo python(.py) pode ser rodado em diversos editores de códigos. Aqui mostrarei como rodar o arquivo a partir do Prompt de Comando (CMD).
 
 1. Abra o promtp de comndo(CMD).
-2. Encontre o arquivo python(.py) a partir do comando cd CAMINHO DO ARQUIVO.
+2. Encontre o arquivo python(.py) a partir do comando _cd CAMINHO DO ARQUIVO._
    ex.: CD C:\Users\Downloads
-3. Digite o comando python após o nome do arquivo com a sua extensão e clica em enter.
+3. Digite o comando _python_ e em seguida o nome do arquivo com a sua extensão do arquivo(.py) e clica em enter.
    ex.: python challenge_1.py
 
 - Como executar os testes:
   Com o arquivo python aberto no Prompt de Comando (CMD), siga as instruções da aplicação e sempre clicando em enter para confirmar.
+  Se desejar sair da aplicação sem o seu término, digite o comando _ctrl + c_.
