@@ -22,8 +22,9 @@ O arquivo python(.py) pode ser rodado em diversos editores de códigos. Aqui mos
 1. Abra o promtp de comndo(CMD).
 2. Encontre o arquivo python(.py) a partir do comando cd CAMINHO DO ARQUIVO.
    ex.: CD C:\Users\Downloads
-3. Digite o comando python após o nome do arquivo com a sua extensão e clica em enter.
+3. Digite o comando _python_ e em seguida o nome do arquivo com a sua extensão do arquivo(.py) e clica em enter.
    ex.: python challenge_2.py
 
 - Como executar os testes:
   Com o arquivo python aberto no Prompt de Comando (CMD), siga as instruções da aplicação e sempre clicando em enter para confirmar.
+  Se desejar sair da aplicação sem o seu término, digite o comando _ctrl + c_.
