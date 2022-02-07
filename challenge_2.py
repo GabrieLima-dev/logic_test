@@ -46,4 +46,4 @@ print()
 print("-" * 60)
 print("O nosso time ao fim do campeonato teve um total de {} pontos.".format(
     sum(princ[9])))
-print()
+print("-" * 60)
